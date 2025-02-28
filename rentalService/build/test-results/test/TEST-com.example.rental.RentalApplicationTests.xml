@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.rental.RentalApplicationTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-16T16:47:06" hostname="MacBook-Air-de-Christine.local" time="1.234">
+  <properties/>
+  <testcase name="test()" classname="com.example.rental.RentalApplicationTests" time="1.224"/>
+  <testcase name="contextLoads()" classname="com.example.rental.RentalApplicationTests" time="0.007"/>
+  <system-out><![CDATA[17:47:03.365 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.rental.RentalApplicationTests]: RentalApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:47:03.571 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.rental.RentalApplication for test class com.example.rental.RentalApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.0)
+
+2025-02-16T17:47:04.340+01:00  INFO 44019 --- [lsi1] [    Test worker] c.example.rental.RentalApplicationTests  : Starting RentalApplicationTests using Java 17 with PID 44019 (started by christine in /Users/christine/Documents/EFREI/M2-APP/S9/Cloud/rental-car/rentalService)
+2025-02-16T17:47:04.343+01:00  INFO 44019 --- [lsi1] [    Test worker] c.example.rental.RentalApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-02-16T17:47:06.670+01:00  INFO 44019 --- [lsi1] [    Test worker] c.example.rental.RentalApplicationTests  : Started RentalApplicationTests in 2.682 seconds (process running for 5.371)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
